@@ -183,8 +183,6 @@ Now let's practice one more backgrounding technique with a different command.
 
 - `vimtutor` -- type this command on your command line for a built-in lesson in VIM basics.
 
-## What's next?
-The next lab is [here](https://github.com/Zipcoder/ZCW-Microlabs-Git).
 
 ## Links:
 
